@@ -1,12 +1,10 @@
-# vCard - Personal portfolio
+# Abinash Karki - Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A fully responsive personal portfolio website showcasing my work as a Full-Stack Developer, built using HTML, CSS, and JavaScript.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
+
+I'm a versatile Full-Stack Programmer with expertise in building custom software solutions that streamline business operations. I specialize in creating intuitive web-based applications using modern technologies like React.js, Java/Spring Boot, Node.js, and cloud platforms.
 
 ## Demo
 
@@ -17,27 +15,36 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Running Locally
 
-To install **vCard**, follow these steps:
+To run this portfolio locally, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/Abinaskarki/vcard-personal-portfolio.git
+cd vcard-personal-portfolio
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/Abinaskarki/vcard-personal-portfolio.git
+cd vcard-personal-portfolio
 ```
+
+Then open `index.html` in your browser.
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+Feel free to reach out to me:
+
+- **Email**: abinaskarki1@gmail.com
+- **LinkedIn**: [linkedin.com/in/abinash-karki-ak](https://www.linkedin.com/in/abinash-karki-ak)
+- **GitHub**: [github.com/Abinaskarki](https://github.com/Abinaskarki)
+- **Location**: London, ON, Canada
 
 ## License
 
