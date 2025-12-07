@@ -6,11 +6,6 @@ A fully responsive personal portfolio website showcasing my work as a Full-Stack
 
 I'm a versatile Full-Stack Programmer with expertise in building custom software solutions that streamline business operations. I specialize in creating intuitive web-based applications using modern technologies like React.js, Java/Spring Boot, Node.js, and cloud platforms.
 
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -24,15 +19,15 @@ To run this portfolio locally, follow these steps:
 Linux and macOS:
 
 ```bash
-git clone https://github.com/Abinaskarki/vcard-personal-portfolio.git
-cd vcard-personal-portfolio
+git clone https://github.com/Abinaskarki/my-portfolio.git
+cd my-portfolio
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Abinaskarki/vcard-personal-portfolio.git
-cd vcard-personal-portfolio
+git clone https://github.com/Abinaskarki/my-portfolio.git
+cd my-portfolio
 ```
 
 Then open `index.html` in your browser.
